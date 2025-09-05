@@ -1,3 +1,12 @@
 {
+  "Package1": {
+    "version": 0.0.1,
+    "url": "https://placeholder.com",
+  },
+  "Package2": {
+    "version": 0.0.1,
+    "url": "placeholder"
+  },
   
 }
+
