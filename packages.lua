@@ -1,4 +1,4 @@
-local packages = {
+return {
     Package1 = {
         version = "0.0.1",
         location = "ServerScriptService",
