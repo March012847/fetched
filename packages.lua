@@ -2,7 +2,7 @@ local packages = {
     Package1 = {
         version = "0.0.1",
         location = "ServerScriptService",
-        url = "placeholder"
+        url = "https://raw.githubusercontent.com/March012847/fetched/refs/heads/main/scripts/Package1.lua"
     },
     Package2 = {
         version = "0.0.1",
